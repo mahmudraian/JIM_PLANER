@@ -1,0 +1,19 @@
+.profile img{
+    width: 50px;
+    border-radius: 50%;
+    padding: 5px;
+}
+.profile{
+    margin: 20px 20px;
+    display: flex;
+    
+}
+.profile h1{
+font-size:large;
+}
+.biodata{
+    display: flex;
+    margin: 20px;
+    background-color: rgb(224, 236, 236);
+    border-radius: 10px;
+}

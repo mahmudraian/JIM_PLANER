@@ -12,8 +12,13 @@
     background-color: rgb(205, 231, 255);
 }
 .btn-click:hover{
-    color: blue;
-    background-color: gold;
+    /* color: blue;
+    background-color: gold; */
+     border: 0px solid #1292e1;
+     background: green;
+     color: white !important;
+     
+
 
 }
 .btn-click{
@@ -22,4 +27,22 @@
     border: 2px;
     border-radius: 20px;
     height: 30px;
+
+    /* border: 0px solid #004B84;
+    background: red;
+    padding: 3px 21px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: Questrial;
+    text-decoration: none;
+    vertical-align: middle;
+    letter-spacing: 2px; */
 }
+.btn-click:active {
+    background: #1292e1;
+    color: white;
+    text-decoration: none !important; 
+   }

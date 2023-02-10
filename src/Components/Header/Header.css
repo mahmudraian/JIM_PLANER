@@ -1,0 +1,10 @@
+.mainheader{
+    display: flex;
+    align-items: start;
+    background-color: antiquewhite;
+    
+}
+.mainheader img{
+    width: 5%;
+
+}
