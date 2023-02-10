@@ -1,0 +1,25 @@
+.mainproduct img{
+    border-radius: 50px;
+}
+.mainproduct{
+    /* height: 508px;
+    width: 300px;
+    border: 2px rgb(34, 92, 59); */
+    height: 400px;
+    width: 300px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    background-color: rgb(205, 231, 255);
+}
+.btn-click:hover{
+    color: blue;
+    background-color: gold;
+
+}
+.btn-click{
+    background-color: blue;
+    width: 150px;
+    border: 2px;
+    border-radius: 20px;
+    height: 30px;
+}
